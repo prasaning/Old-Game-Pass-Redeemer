@@ -4,7 +4,11 @@
 This script was made for minecraft alt shops. It was one of the first redeemers made for xbox game passes redeeming.  
 It uses playwright so it wasn't really that efficient in the long run. The code it's self is decent for the time.  
 Since people were used to using cookies, I made it so the code also saved the cookie of the account.  
-This was also a good way to bypass the account locks since the session id was still active while the acc was locked.
+This was also a good way to bypass the account locks since the session id was still active while the acc was locked.  
+
+
+Below is the steps to use the redeemer itself, but I also included in this repo a validator.  
+The script checks through the codes and removes all the invalid codes.   
 
 ## Features
 - Automated Xbox/Minecraft account creation.
